@@ -1,2 +1,4 @@
 # Image-gallery
-Image Gallery Application
+Image Gallery Web Application with Spring Boot and MySQL Integration
+
+#Will Upload the Project very soon !
